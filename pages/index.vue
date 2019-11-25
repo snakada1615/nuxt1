@@ -8,6 +8,9 @@
       <h2 class="subtitle">
         My groovy Nuxt.js project
       </h2>
+      <h5>
+        hello!
+      </h5>
       <div class="links">
         <a
           href="https://nuxtjs.org/"
