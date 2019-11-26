@@ -1,0 +1,33 @@
+[Tue, 26 Nov 2019 22:29:14 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5000/
+[Tue, 26 Nov 2019 22:29:14 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5000/_utils for the Fauxton UI.
+[Tue, 26 Nov 2019 22:29:56 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET / 200
+[Tue, 26 Nov 2019 22:30:21 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/ 304
+[Tue, 26 Nov 2019 22:30:21 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/css/styles-a9623008fc27e79da2388441deeacfab.css 304
+[Tue, 26 Nov 2019 22:30:21 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/js/bundle-34997e32896293a1fa5d71f79eb1b4f7.js 304
+[Tue, 26 Nov 2019 22:30:22 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_session 304
+[Tue, 26 Nov 2019 22:30:22 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_session 304
+[Tue, 26 Nov 2019 22:30:22 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET / 304
+[Tue, 26 Nov 2019 22:30:22 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/img/pouchdb-site.png 304
+[Tue, 26 Nov 2019 22:30:22 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/fonts/fauxtonicon5.woff 304
+[Tue, 26 Nov 2019 22:30:22 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?_=1574807421946 200
+[Tue, 26 Nov 2019 22:30:22 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?startkey=%22%22&endkey=%22%E9%A6%99%22&limit=30&_=1574807421947 200
+[Tue, 26 Nov 2019 22:30:22 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_replicator?_=1574807421948 200
+[Tue, 26 Nov 2019 22:30:22 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_users?_=1574807421949 200
+[Tue, 26 Nov 2019 22:30:22 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/fonts/fontawesome-webfont.woff 304
+[Tue, 26 Nov 2019 22:30:28 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_users/_all_docs?startkey=%22_design%2F%22&endkey=%22_design0%22&include_docs=true&limit=501 200
+[Tue, 26 Nov 2019 22:30:28 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_users/_all_docs?limit=21&include_docs=true 200
+[Tue, 26 Nov 2019 22:30:28 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_users/_all_docs?startkey=%22%22&endkey=%22%E9%A6%99%22&limit=30&_=1574807421950 200
+[Tue, 26 Nov 2019 22:30:33 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?_=1574807421951 200
+[Tue, 26 Nov 2019 22:30:33 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_replicator?_=1574807421952 200
+[Tue, 26 Nov 2019 22:30:33 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_users?_=1574807421953 200
+[Tue, 26 Nov 2019 22:30:35 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_replicator/_all_docs?startkey=%22_design%2F%22&endkey=%22_design0%22&include_docs=true&limit=501 200
+[Tue, 26 Nov 2019 22:30:35 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_replicator/_all_docs?limit=21&include_docs=true 200
+[Tue, 26 Nov 2019 22:30:35 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_replicator/_all_docs?startkey=%22%22&endkey=%22%E9%A6%99%22&limit=30&_=1574807421954 200
+[Tue, 26 Nov 2019 22:30:38 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?_=1574807421955 200
+[Tue, 26 Nov 2019 22:30:38 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_replicator?_=1574807421956 200
+[Tue, 26 Nov 2019 22:30:38 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_users?_=1574807421957 200
+[Tue, 26 Nov 2019 22:50:15 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5000/
+[Tue, 26 Nov 2019 22:50:15 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5000/_utils for the Fauxton UI.
+[Tue, 26 Nov 2019 22:50:56 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /employees/ 404
+[Tue, 26 Nov 2019 22:50:56 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /employees/ 201
+[Tue, 26 Nov 2019 22:50:56 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /employees/ 200
